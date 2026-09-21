@@ -1,0 +1,3 @@
+[submodule "yq-infantry"]
+	path = yq-infantry
+	url = https://github.com/YunQian-vision/yq-infantry.git
